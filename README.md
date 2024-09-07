@@ -1,5 +1,5 @@
 # 💫 About Me:
-🗺  I'm looking for a fresh start in MERN/MEAN stack<br> 📍   Create best logistics app<br>🌱  Always learning<br>💭  Ask me about purpose o life<br>⚡  Fun fact I like anime
+🗺  I'm looking for a fresh start in MERN/MEAN stack<br> 📍   Create best logistics app<br>🌱  Always learning<br>💭  Ask me about purpose of life<br>⚡  Fun fact I like anime
 
 
 ## 🌐 Socials:
